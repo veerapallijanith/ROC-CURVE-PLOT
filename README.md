@@ -75,7 +75,7 @@ plt.show()
 ```
 
 ## Output:
-![image[(https://github.com/veerapallijanith/ROC-CURVE-PLOT/blob/main/neu.png)
+![image](https://github.com/veerapallijanith/ROC-CURVE-PLOT/blob/main/neu.png)
 
 
 ## Result:
